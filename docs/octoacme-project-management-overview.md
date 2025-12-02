@@ -19,6 +19,10 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- Change Manager: oversees change management processes and maintains the change log.
+- Communications Lead: develops and executes internal and external communication plans.
+- Quality Assurance Specialist: defines quality standards and ensures deliverables meet acceptance criteria.
+- Stakeholder Engagement Coordinator: manages stakeholder analysis and organizes engagement sessions.
 
 ## Key Artifacts
 - Project Charter / One-pager

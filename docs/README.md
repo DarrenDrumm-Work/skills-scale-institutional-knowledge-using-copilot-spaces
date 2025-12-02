@@ -35,6 +35,12 @@ Core practices used across these stages:
 - [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md) — running retros, tracking action items.
 - [Roles and Personas](./octoacme-roles-and-personas.md) — role summaries and responsibilities.
 
+## Templates and Checklists
+- [Change Management Checklist](./change-management-checklist.md) — standardized checklist for managing change requests.
+- [Communications Plan Template](./communications-plan-template.md) — template for project communications planning.
+- [Quality Acceptance Checklist](./quality-acceptance-checklist.md) — checklist for validating deliverable quality.
+- [Stakeholder Engagement Log](./stakeholder-engagement-log.md) — log for tracking stakeholder interactions and feedback.
+
 ## Acceptance criteria
 - [ ] Links point to the correct documents in this folder
 - [ ] Content aligns with existing process docs and doesn't introduce conflicting guidance
